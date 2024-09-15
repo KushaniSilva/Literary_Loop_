@@ -24,11 +24,19 @@ Members: Approved users with access to the book exchange system.
 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
+
 Backend: Java
+
 Database: MySQL
+
 Web Server: Apache Tomcat
+
 Tools Used
+
 Visual Studio Code
+
 Eclipse IDE
+
 MySQL Workbench
+
 Draw.io (for UML diagrams)
