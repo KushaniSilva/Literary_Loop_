@@ -16,7 +16,9 @@ Project Scope
 The Literary Loop platform caters to three main types of users:
 
 Unregistered Users: Can browse available books.
+
 Registered Users: Can purchase and sell books.
+
 Members: Approved users with access to the book exchange system.
 
 Tech Stack
